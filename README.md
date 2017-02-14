@@ -1,6 +1,6 @@
 # ChickenFight
 
-Created by Dinesh Singh, Kevin Zheng, and Jonatan Wu
+Created by Dinesh Singh, Kevin Zeng, and Jonatan Wu
 
 A silly, frantic game based on the never-ending conflict between two chickens. This is the initial release version of our game.
 
